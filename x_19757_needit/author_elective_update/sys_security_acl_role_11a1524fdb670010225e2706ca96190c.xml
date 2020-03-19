@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 04:56:19</sys_created_on>
+        <sys_id>11a1524fdb670010225e2706ca96190c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_19757_needit_needit_task.x_19757_needit.needit_task_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_19757_needit">c2af4979dba30010225e2706ca96190b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">c2af4979dba30010225e2706ca96190b</sys_scope>
+        <sys_security_acl display_value="x_19757_needit_needit_task">91a1524fdb670010225e2706ca961909</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_11a1524fdb670010225e2706ca96190c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 04:56:19</sys_updated_on>
+        <sys_user_role display_value="x_19757_needit.needit_task_user" name="x_19757_needit.needit_task_user">81a1960fdb670010225e2706ca96197c</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">c2af4979dba30010225e2706ca96190b</application>
+        <file_path/>
+        <instance_id>00c6c8d0db493b8007072f17d4961966</instance_id>
+        <instance_name>dev82670</instance_name>
+        <name>sys_security_acl_role_11a1524fdb670010225e2706ca96190c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-19 04:56:19</sys_created_on><sys_id>11a1524fdb670010225e2706ca96190c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_19757_needit_needit_task.x_19757_needit.needit_task_user</sys_name><sys_package display_value="NeedIt" source="x_19757_needit">c2af4979dba30010225e2706ca96190b</sys_package><sys_policy/><sys_scope display_value="NeedIt">c2af4979dba30010225e2706ca96190b</sys_scope><sys_security_acl display_value="x_19757_needit_needit_task">91a1524fdb670010225e2706ca961909</sys_security_acl><sys_update_name>sys_security_acl_role_11a1524fdb670010225e2706ca96190c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-19 04:56:19</sys_updated_on><sys_user_role display_value="x_19757_needit.needit_task_user" name="x_19757_needit.needit_task_user">81a1960fdb670010225e2706ca96197c</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>458625810</payload_hash>
+        <record_name>x_19757_needit_needit_task.x_19757_needit.needit_task_user</record_name>
+        <reverted_from/>
+        <source>dc41d9b9dba30010225e2706ca96197e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 04:56:19</sys_created_on>
+        <sys_id>d5a1524fdb670010225e2706ca96190e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f1263ca00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 04:56:19</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>11a1524fe46700104a2aaddd2651090e</update_guid>
+        <update_guid_history>11a1524fe46700104a2aaddd2651090e:458625810</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_19757_needit_needit_task.x_19757_needit.needit_task_user">dfd1164fdb670010225e2706ca9619a2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 04:57:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>6044df594b2c416681ef4908f6389939</sys_id>
+        <sys_metadata>11a1524fdb670010225e2706ca96190c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_19757_needit_needit_task.x_19757_needit.needit_task_user</sys_name>
+        <sys_package display_value="NeedIt" source="x_19757_needit">c2af4979dba30010225e2706ca96190b</sys_package>
+        <sys_parent display_value="">91a1524fdb670010225e2706ca961909</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">c2af4979dba30010225e2706ca96190b</sys_scope>
+        <sys_scope_delete display_value="">1ec57b7ad8a2456a9036bd640d94ab24</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_11a1524fdb670010225e2706ca96190c</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_11a1524fdb670010225e2706ca96190c">d5a1524fdb670010225e2706ca96190e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 04:57:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

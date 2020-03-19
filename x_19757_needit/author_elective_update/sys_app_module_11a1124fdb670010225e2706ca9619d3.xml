@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">afe0d979dba30010225e2706ca96197a</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>NeedIt Tasks</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_19757_needit_needit_task</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_19757_needit.needit_task_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 04:56:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>11a1124fdb670010225e2706ca9619d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Tasks</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_19757_needit">c2af4979dba30010225e2706ca96190b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">c2af4979dba30010225e2706ca96190b</sys_scope>
+        <sys_update_name>sys_app_module_11a1124fdb670010225e2706ca9619d3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 04:56:19</sys_updated_on>
+        <timeline_page/>
+        <title>NeedIt Tasks</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">c2af4979dba30010225e2706ca96190b</application>
+        <file_path/>
+        <instance_id>00c6c8d0db493b8007072f17d4961966</instance_id>
+        <instance_name>dev82670</instance_name>
+        <name>sys_app_module_11a1124fdb670010225e2706ca9619d3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">afe0d979dba30010225e2706ca96197a</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>NeedIt Tasks</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_19757_needit_needit_task</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_19757_needit.needit_task_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-19 04:56:19</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>11a1124fdb670010225e2706ca9619d3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Tasks</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_19757_needit">c2af4979dba30010225e2706ca96190b</sys_package><sys_policy/><sys_scope display_value="NeedIt">c2af4979dba30010225e2706ca96190b</sys_scope><sys_update_name>sys_app_module_11a1124fdb670010225e2706ca9619d3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-19 04:56:19</sys_updated_on><timeline_page/><title>NeedIt Tasks</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-112247292</payload_hash>
+        <record_name>NeedIt Tasks</record_name>
+        <reverted_from/>
+        <source>dc41d9b9dba30010225e2706ca96197e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 04:56:19</sys_created_on>
+        <sys_id>91a1124fdb670010225e2706ca9619d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f1263a160000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 04:56:19</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d9a1124fc767001008b27889c431a0d5</update_guid>
+        <update_guid_history>d9a1124fc767001008b27889c431a0d5:-112247292</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt Tasks">6bd1164fdb670010225e2706ca9619cf</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 04:57:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>008c82df79ff4df480073826e22008a4</sys_id>
+        <sys_metadata>11a1124fdb670010225e2706ca9619d3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Tasks</sys_name>
+        <sys_package display_value="NeedIt" source="x_19757_needit">c2af4979dba30010225e2706ca96190b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">c2af4979dba30010225e2706ca96190b</sys_scope>
+        <sys_scope_delete display_value="">1ec57b7ad8a2456a9036bd640d94ab24</sys_scope_delete>
+        <sys_update_name>sys_app_module_11a1124fdb670010225e2706ca9619d3</sys_update_name>
+        <sys_update_version display_value="sys_app_module_11a1124fdb670010225e2706ca9619d3">91a1124fdb670010225e2706ca9619d6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 04:57:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

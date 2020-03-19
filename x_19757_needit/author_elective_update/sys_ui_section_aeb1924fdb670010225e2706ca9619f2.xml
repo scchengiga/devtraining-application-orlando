@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="aeb1924fdb670010225e2706ca9619f2" sys_domain="global" table="x_19757_needit_needit_task" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-19 04:56:40</sys_created_on>
+            <sys_id>66b1924fdb670010225e2706ca9619f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_19757_needit_needit_task" sys_domain="global" view="Default view">aeb1924fdb670010225e2706ca9619f2</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-19 04:56:40</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_19757_needit_needit_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-19 04:56:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aeb1924fdb670010225e2706ca9619f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_19757_needit_needit_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_19757_needit">c2af4979dba30010225e2706ca96190b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">c2af4979dba30010225e2706ca96190b</sys_scope>
+            <sys_update_name>sys_ui_section_aeb1924fdb670010225e2706ca9619f2</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-19 04:56:40</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">c2af4979dba30010225e2706ca96190b</application>
+        <file_path/>
+        <instance_id>00c6c8d0db493b8007072f17d4961966</instance_id>
+        <instance_name>dev82670</instance_name>
+        <name>sys_ui_section_aeb1924fdb670010225e2706ca9619f2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="aeb1924fdb670010225e2706ca9619f2" sys_domain="global" table="x_19757_needit_needit_task" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>number</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-19 04:56:40</sys_created_on><sys_id>66b1924fdb670010225e2706ca9619f6</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_19757_needit_needit_task" sys_domain="global" view="Default view">aeb1924fdb670010225e2706ca9619f2</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-19 04:56:40</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_19757_needit_needit_task</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-19 04:56:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>aeb1924fdb670010225e2706ca9619f2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_19757_needit_needit_task</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_19757_needit">c2af4979dba30010225e2706ca96190b</sys_package><sys_policy/><sys_scope display_value="NeedIt">c2af4979dba30010225e2706ca96190b</sys_scope><sys_update_name>sys_ui_section_aeb1924fdb670010225e2706ca9619f2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-19 04:56:40</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>583344441</payload_hash>
+        <record_name>NeedIt Task</record_name>
+        <reverted_from/>
+        <source>dc41d9b9dba30010225e2706ca96197e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 04:56:40</sys_created_on>
+        <sys_id>6eb1924fdb670010225e2706ca9619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f1268e3f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 04:56:40</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>e6b1924fae670010cdbf2fdb63331af7</update_guid>
+        <update_guid_history>e6b1924fae670010cdbf2fdb63331af7:583344441,aeb1924f936700100ac8773957dc40f5:-425584092</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 04:57:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>5bac4faf10324ba5afd7959b1e3c9511</sys_id>
+        <sys_metadata>aeb1924fdb670010225e2706ca9619f2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_19757_needit_needit_task</sys_name>
+        <sys_package display_value="NeedIt" source="x_19757_needit">c2af4979dba30010225e2706ca96190b</sys_package>
+        <sys_parent display_value="">41019a0fdb670010225e2706ca9619d0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">c2af4979dba30010225e2706ca96190b</sys_scope>
+        <sys_scope_delete display_value="">1ec57b7ad8a2456a9036bd640d94ab24</sys_scope_delete>
+        <sys_update_name>sys_ui_section_aeb1924fdb670010225e2706ca9619f2</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_aeb1924fdb670010225e2706ca9619f2">6eb1924fdb670010225e2706ca9619f7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 04:57:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

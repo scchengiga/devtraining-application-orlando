@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="DELETE">
+        <category display_value="" name="x_19757_needit_needit_task">x_19757_needit_needit_task</category>
+        <maximum_digits>6</maximum_digits>
+        <number>3000</number>
+        <prefix>NITASK</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 04:56:21</sys_created_on>
+        <sys_id>69a1524fdb670010225e2706ca96192d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NITASK</sys_name>
+        <sys_package display_value="NeedIt" source="x_19757_needit">c2af4979dba30010225e2706ca96190b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">c2af4979dba30010225e2706ca96190b</sys_scope>
+        <sys_update_name>sys_number_69a1524fdb670010225e2706ca96192d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 04:56:21</sys_updated_on>
+    </sys_number>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">c2af4979dba30010225e2706ca96190b</application>
+        <file_path/>
+        <instance_id>00c6c8d0db493b8007072f17d4961966</instance_id>
+        <instance_name>dev82670</instance_name>
+        <name>sys_number_69a1524fdb670010225e2706ca96192d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number"><sys_number action="INSERT_OR_UPDATE"><category display_value="" name="x_19757_needit_needit_task">x_19757_needit_needit_task</category><maximum_digits>6</maximum_digits><number>3000</number><prefix>NITASK</prefix><sys_class_name>sys_number</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-03-19 04:56:21</sys_created_on><sys_id>69a1524fdb670010225e2706ca96192d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NITASK</sys_name><sys_package display_value="NeedIt" source="x_19757_needit">c2af4979dba30010225e2706ca96190b</sys_package><sys_policy/><sys_scope display_value="NeedIt">c2af4979dba30010225e2706ca96190b</sys_scope><sys_update_name>sys_number_69a1524fdb670010225e2706ca96192d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-03-19 04:56:21</sys_updated_on></sys_number></record_update>]]></payload>
+        <payload_hash>-530781342</payload_hash>
+        <record_name>NITASK</record_name>
+        <reverted_from/>
+        <source>dc41d9b9dba30010225e2706ca96197e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 04:56:21</sys_created_on>
+        <sys_id>39a1524fdb670010225e2706ca96195b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>170f12643140000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 04:56:21</sys_updated_on>
+        <type>Number</type>
+        <update_guid>71a1524fdc67001004a2fcf4dbde0a5b</update_guid>
+        <update_guid_history>71a1524fdc67001004a2fcf4dbde0a5b:-530781342</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-19 04:57:18</sys_created_on>
+        <sys_db_object display_value="" name="sys_number">sys_number</sys_db_object>
+        <sys_id>7de8398079d54d988d7e2e90106e6790</sys_id>
+        <sys_metadata>69a1524fdb670010225e2706ca96192d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NITASK</sys_name>
+        <sys_package display_value="NeedIt" source="x_19757_needit">c2af4979dba30010225e2706ca96190b</sys_package>
+        <sys_parent display_value="">41019a0fdb670010225e2706ca9619d0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">c2af4979dba30010225e2706ca96190b</sys_scope>
+        <sys_scope_delete display_value="">1ec57b7ad8a2456a9036bd640d94ab24</sys_scope_delete>
+        <sys_update_name>sys_number_69a1524fdb670010225e2706ca96192d</sys_update_name>
+        <sys_update_version display_value="sys_number_69a1524fdb670010225e2706ca96192d">39a1524fdb670010225e2706ca96195b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-19 04:57:18</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
