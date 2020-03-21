@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="NeedIt Properties">785b28bfdb2f0010225e2706ca96193c</category>
+        <order>200</order>
+        <property display_value="x_19757_needit.autoCloseOverdue" name="x_19757_needit.autoCloseOverdue">4d8ba8bfdb2f0010225e2706ca96194e</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-21 05:30:17</sys_created_on>
+        <sys_id>569c64ffdb2f0010225e2706ca9619e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_19757_needit.autoCloseOverdue.NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_19757_needit">c2af4979dba30010225e2706ca96190b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">c2af4979dba30010225e2706ca96190b</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_569c64ffdb2f0010225e2706ca9619e0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-21 05:30:17</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
