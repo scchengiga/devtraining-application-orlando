@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element audit="true" extends="task" label="NeedIt Task" max_length="40" name="x_19757_needit_needit_task" sizeclass="18" type="collection">
+    <element audit="true" extends="task" label="NeedIt Task" max_length="40" name="x_19757_needit_needit_task" sizeclass="19" type="collection">
         <element label="Needit" max_length="32" name="needit" reference="x_19757_needit_needit" type="reference"/>
     </element>
 </database>
