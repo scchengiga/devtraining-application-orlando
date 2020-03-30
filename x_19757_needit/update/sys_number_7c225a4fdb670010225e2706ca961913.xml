@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
     <sys_number action="INSERT_OR_UPDATE">
-        <category display_value="" name="x_19757_needit_needit_task">x_19757_needit_needit_task</category>
+        <category display_value="">x_19757_needit_needit_task</category>
         <maximum_digits>6</maximum_digits>
         <number>3000</number>
         <prefix>NITASK</prefix>
