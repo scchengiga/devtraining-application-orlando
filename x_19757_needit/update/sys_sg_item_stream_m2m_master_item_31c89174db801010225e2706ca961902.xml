@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="By Request Type Item Stream">39c85174db801010225e2706ca9619de</item_stream>
+        <master_item display_value="By Request Type Master Item">f1c85174db801010225e2706ca9619ee</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-05 21:32:55</sys_created_on>
+        <sys_id>31c89174db801010225e2706ca961902</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_19757_needit">c2af4979dba30010225e2706ca96190b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">c2af4979dba30010225e2706ca96190b</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_31c89174db801010225e2706ca961902</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-05 21:32:55</sys_updated_on>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="DELETE">
+        <condition_type>declarative</condition_type>
+        <description>Open NeedIt records for last quarter</description>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Need -Need Last Quarter</name>
+        <query_condition table="x_19757_needit_needit">active=true^u_when_neededONLast quarter@javascript:gs.beginningOfLastQuarter()@javascript:gs.endOfLastQuarter()^ORDERBYnumber<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="false" field="u_when_needed" goto="false" newquery="false" operator="ON" or="false" value="Last quarter@javascript:gs.beginningOfLastQuarter()@javascript:gs.endOfLastQuarter()"/>
+            <item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="number"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-05 20:54:20</sys_created_on>
+        <sys_id>5cff857cdb401010225e2706ca961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Need -Need Last Quarter</sys_name>
+        <sys_package display_value="NeedIt" source="x_19757_needit">c2af4979dba30010225e2706ca96190b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">c2af4979dba30010225e2706ca96190b</sys_scope>
+        <sys_update_name>sys_sg_data_item_5cff857cdb401010225e2706ca961966</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-05 20:54:20</sys_updated_on>
+        <table>x_19757_needit_needit</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="DELETE" query="documentkey=5cff857cdb401010225e2706ca961966"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">c2af4979dba30010225e2706ca96190b</application>
+        <file_path/>
+        <instance_id>00c6c8d0db493b8007072f17d4961966</instance_id>
+        <instance_name>dev82670</instance_name>
+        <name>sys_sg_data_item_5cff857cdb401010225e2706ca961966</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item"><sys_sg_data_item action="INSERT_OR_UPDATE"><condition_type>declarative</condition_type><description>Open NeedIt records for last quarter</description><group_by/><instance_relative_url_qc/><name>Need -Need Last Quarter</name><query_condition table="x_19757_needit_needit">active=true^u_when_neededONLast quarter@javascript:gs.beginningOfLastQuarter()@javascript:gs.endOfLastQuarter()^ORDERBYnumber<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/><item endquery="false" field="u_when_needed" goto="false" newquery="false" operator="ON" or="false" value="Last quarter@javascript:gs.beginningOfLastQuarter()@javascript:gs.endOfLastQuarter()"/><item endquery="false" field="" goto="false" newquery="false" operator="ORDERBY" or="false" value="number"/></query_condition><query_condition_script/><sys_class_name>sys_sg_data_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-05 20:54:20</sys_created_on><sys_id>5cff857cdb401010225e2706ca961966</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Need -Need Last Quarter</sys_name><sys_package display_value="NeedIt" source="x_19757_needit">c2af4979dba30010225e2706ca96190b</sys_package><sys_policy/><sys_scope display_value="NeedIt">c2af4979dba30010225e2706ca96190b</sys_scope><sys_update_name>sys_sg_data_item_5cff857cdb401010225e2706ca961966</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-05 20:54:20</sys_updated_on><table>x_19757_needit_needit</table></sys_sg_data_item><sys_translated_text action="delete_multiple" query="documentkey=5cff857cdb401010225e2706ca961966"/></record_update>]]></payload>
+        <payload_hash>531890884</payload_hash>
+        <record_name>Need -Need Last Quarter</record_name>
+        <reverted_from/>
+        <source>0d71bef6db730010225e2706ca96192f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-05 20:54:20</sys_created_on>
+        <sys_id>54ff857cdb401010225e2706ca961968</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1714c1f6cf20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-05 20:54:20</sys_updated_on>
+        <type>Data Item</type>
+        <update_guid>9cff857cb8401010996580c63224e267</update_guid>
+        <update_guid_history>9cff857cb8401010996580c63224e267:531890884</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-05 20:56:07</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_data_item">sys_sg_data_item</sys_db_object>
+        <sys_id>2dfbfea3504e4d6693750ec0e380d371</sys_id>
+        <sys_metadata>5cff857cdb401010225e2706ca961966</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Need -Need Last Quarter</sys_name>
+        <sys_package display_value="NeedIt" source="x_19757_needit">c2af4979dba30010225e2706ca96190b</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">c2af4979dba30010225e2706ca96190b</sys_scope>
+        <sys_scope_delete display_value="">1ec57b7ad8a2456a9036bd640d94ab24</sys_scope_delete>
+        <sys_update_name>sys_sg_data_item_5cff857cdb401010225e2706ca961966</sys_update_name>
+        <sys_update_version display_value="sys_sg_data_item_5cff857cdb401010225e2706ca961966">54ff857cdb401010225e2706ca961968</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-05 20:56:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

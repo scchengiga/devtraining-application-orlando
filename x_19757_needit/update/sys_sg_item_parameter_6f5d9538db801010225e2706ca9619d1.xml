@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Update Priority</name>
+        <parent>7f1dd9f4db801010225e2706ca9619f5</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-05 21:53:10</sys_created_on>
+        <sys_id>6f5d9538db801010225e2706ca9619d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Priority</sys_name>
+        <sys_package display_value="NeedIt" source="x_19757_needit">c2af4979dba30010225e2706ca96190b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">c2af4979dba30010225e2706ca96190b</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_6f5d9538db801010225e2706ca9619d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-05 21:53:10</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>
